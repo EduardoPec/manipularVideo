@@ -2,7 +2,7 @@
 
 Um reprodutor de vídeo web com controles personalizados e funcionalidades interativas, desenvolvido com HTML, CSS e JavaScript.
 
-![Preview](.png) 
+![Preview](ftManipuladorVideo.png) 
 
 ## Funcionalidades
 
