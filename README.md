@@ -32,7 +32,11 @@ Você pode facilmente personalizar:
 - Cores no arquivo `styles.css`
 - Vídeo substituindo o arquivo na pasta `video/`
 - Botões adicionais no `script.js`
-- 
+
+Veja o projeto funcionando ao vivo:
+
+👉 [Eduardo Peçanha — Projeto Online](https://eduardopec.github.io/manipularVideo/)
+ 
 ## 🚀 Como Executar
 1. Clone o repositório:
    ```bash
